@@ -1,2 +1,2 @@
-# Full STack Coursework
+# Full Stack Coursework
 
